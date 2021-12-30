@@ -1,2 +1,9 @@
-# i-break-your-computer
-An AppleScript application that blocks your computer and makes it beep!
+# I Break your computer!
+
+This program makes your computer infinantely beep!
+
+## Install
+
+There is a .app file in releses.
+
+(USE AT YOUR OWN RISK!)
